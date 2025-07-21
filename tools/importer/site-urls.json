@@ -1,0 +1,794 @@
+{
+  "originUrl": "https://www.insigniafinancial.com.au",
+  "lastCrawled": "https://www.insigniafinancial.com.au/",
+  "urls": [
+    {
+      "url": "https://www.insigniafinancial.com.au/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "8851ec1c8c01eea8d8070965eee0ba6fd0b6edcd"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us",
+      "id": "6295af9365d20a08274dc5e96e7e46efe1e3c763"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/acknowledgement-of-country",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/acknowledgement-of-country",
+      "id": "2c7ddaa2ac119becd3dfc503a3e688adbc7149d3"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-brands",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-brands",
+      "id": "4198a6d90ee388b676de1c0d50b183f9fdb42666"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-brands/financial-advice",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-brands/financial-advice",
+      "id": "debc8c13558ceb2d2a89bd2c1c3c976bf50c3461"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-brands/super-and-investments",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-brands/super-and-investments",
+      "id": "30d6a1446751ded634d2eeb4333714317581f92d"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-business",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-business",
+      "id": "a692708382ea4a963ad257321143e6461dd7264e"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-business/our-history",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-business/our-history",
+      "id": "73b5fcc495a9e9b0c899ff85785bf8c4dde0e333"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-business/our-services",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-business/our-services",
+      "id": "7df2f9088091034b6ea3c8a7e8e9fb30dabbad35"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-business/our-story",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-business/our-story",
+      "id": "ef4bcfb2cb9b6b72393d4d4bcd723bcc9cd108b5"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-people",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people",
+      "id": "a6585342e3e8236b23ad53a26943ac7b8450c547"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-people/board-of-directors",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people/board-of-directors",
+      "id": "8a68d304e47e411b1f3fedd517f62e66c76b1c41"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-people/code-of-conduct",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people/code-of-conduct",
+      "id": "81fac586b4e47a7a83f768bc3b913b55bb77ab33"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/about-us/our-people/our-executive-team",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-people/our-executive-team",
+      "id": "7c2bc2640ba27d7446b4e49688e4e1e6d70c5a21"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/careers",
+      "source": "SITEMAPS",
+      "targetPath": "/careers",
+      "id": "c4ad9d0ed3ce396911ea4e09e293a0ac3b487883"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/careers/join-the-team",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/join-the-team",
+      "id": "93101256dbe7442dc385e30e73e59dd26404f518"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/careers/join-the-team/current-opportunities",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/join-the-team/current-opportunities",
+      "id": "eea0128b7738fbc76e4513d4fe39b4d5752e0957"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/careers/working-with-us",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/working-with-us",
+      "id": "82afbafd82ec3ba563f0375398acb610d92905e0"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/careers/working-with-us/diversity-and-belonging",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/working-with-us/diversity-and-belonging",
+      "id": "63396dadd4c9d1b17a52149f3aa755a0e0d312d7"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/careers/working-with-us/the-insignia-financial-way",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/working-with-us/the-insignia-financial-way",
+      "id": "54e689dd07ad3d49cc842f8f787e327692dcd2cd"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/careers/working-with-us/why-join-our-team",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/working-with-us/why-join-our-team",
+      "id": "9f4588efa812eed2c61ddd42c4a3a1f9bbe4a2b9"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/common/outage",
+      "source": "SITEMAPS",
+      "targetPath": "/common/outage",
+      "id": "290ddb89881106247152f1a252396f7f041aa687"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/contact-us",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us",
+      "id": "3fd03482c71dace0baaa793c2847bd0a54cbfae9"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility",
+      "id": "199fe18699ae8a19bcafee0e6b59d2aabd6791d9"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community",
+      "id": "37d75d77ce5b3ffc99152f5821f5b210f8193c7b"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/financial-hardship",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/financial-hardship",
+      "id": "4ee79e6156e867ff337d294aac700ffdafce6180"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/financial-hardship/hearing-and-interpreting-services",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/financial-hardship/hearing-and-interpreting-services",
+      "id": "cab90d7d766887de6273f1db97692a9356974517"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/financial-hardship/resources-available",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/financial-hardship/resources-available",
+      "id": "04da7836ab3e3176ffe6524f22d9c450ed340917"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/foundation",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/foundation",
+      "id": "a4264feee753404dfa665128819d14da5904e70f"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/foundation/applying-for-grants",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/foundation/applying-for-grants",
+      "id": "ab76bb8f7cf3cc53a9d106a8193a1fbe39af6718"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/foundation/donation-form",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/foundation/donation-form",
+      "id": "42ef4c875595f6aaf4ca123df7af95e4446bd1fb"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/foundation/frequently-asked-questions",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/foundation/frequently-asked-questions",
+      "id": "02486175e73ac74458ee8549b95c0f2b912ae85a"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/foundation/governance",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/foundation/governance",
+      "id": "2c16f84074d944e36e636848e356e69507f3053d"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/foundation/partner-profiles",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/foundation/partner-profiles",
+      "id": "d692e9cdb6d260b2e74581199793b567e1a3246d"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/foundation/thank-you",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/foundation/thank-you",
+      "id": "990c434a05b149937bb608f207faa921b91635d3"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/community/reconciliation",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/community/reconciliation",
+      "id": "9d7dd30be1a6777f3112b126848e1bff93620841"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/corporate-governance",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/corporate-governance",
+      "id": "3c9006406b17f204833349a362cbc509539ce632"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/corporate-governance/statement-charters-and-policies",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/corporate-governance/statement-charters-and-policies",
+      "id": "aed1ffda56edef57c9181cc2ad354fd87f602239"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/corporate-governance/statement-charters-and-policies/whistleblower-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/corporate-governance/statement-charters-and-policies/whistleblower-policy",
+      "id": "5ace01117ced87f9354e0c1c62c3df62fd5aa071"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/sustainability",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/sustainability",
+      "id": "d9d5dc15ee3482b600e626a2534a35cbf468f53a"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/sustainability/client-impact",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/sustainability/client-impact",
+      "id": "401335d24b4b6432ec10ef14a9021f4db24e582f"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/sustainability/doing-business-with-us",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/sustainability/doing-business-with-us",
+      "id": "aa8062c3be9063856d4fd9299968576426295dd8"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/sustainability/environmental-impact",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/sustainability/environmental-impact",
+      "id": "c538a9e8e42b9cbca46ab18017756d858dc21fb7"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/sustainability/governance-esg",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/sustainability/governance-esg",
+      "id": "65dc822825bf61c1d43a017fa7fb8578a8aad0b8"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/sustainability/our-priorities",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/sustainability/our-priorities",
+      "id": "41467983d63228dcbe5c6d9eb0b671d7ac35ed57"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/sustainability/responsible-investment",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/sustainability/responsible-investment",
+      "id": "7bf18ce4702bbc7f51e82050c486f847d162a633"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/corporate-responsibility/sustainability/social-impact",
+      "source": "SITEMAPS",
+      "targetPath": "/corporate-responsibility/sustainability/social-impact",
+      "id": "92f461a2c452259ed2eee4753eac14a691ac284e"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media",
+      "id": "286a72c8804f60d7726e0693022be0ab9188767a"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases",
+      "id": "5830af622685fbaabbc07c6143f00873a964d9d3"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases",
+      "id": "80cdddfc003e3efd749c9f845eafd6152cb541c0"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/australians-strive-for-financial-independence",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/australians-strive-for-financial-independence",
+      "id": "3109c3407e1a3e6a06ec9e0b96037eeb3eb7e8cf"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/australias-largest-single-wrap-migration",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/australias-largest-single-wrap-migration",
+      "id": "fb155335f1818684ff3052c2febec0c4f309ff95"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/bringing-together-investment-teams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/bringing-together-investment-teams",
+      "id": "1a2c6c93df2bcfbc1cbf2f1c2325e2281089ddf0"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/ifl-announces-new-operating-model-and-executive-team-changes",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/ifl-announces-new-operating-model-and-executive-team-changes",
+      "id": "26463f2f426d499ab58fda42a8d78985b6401a37"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-and-ss-c-complete-major-milestone-in-transformation",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-and-ss-c-complete-major-milestone-in-transformation",
+      "id": "6ade2f4e24609aa5056c55f89887da3f7f5aeaee"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-appoints-chief-technology-officer",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-appoints-chief-technology-officer",
+      "id": "f9722c45d4027bd43d834ad41857f09a4c8572ae"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-appoints-danielle-press",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-appoints-danielle-press",
+      "id": "ac3b9e1e1af515d6f0d95e197b0675213dd86c5c"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-appoints-dave-woodall-as-ceo-superannuation",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-appoints-dave-woodall-as-ceo-superannuation",
+      "id": "e6c81522dda54f5f679e77c9079e21712ba920b6"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-bolsters-responsible-investing-capability",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-bolsters-responsible-investing-capability",
+      "id": "5d8f768e33ee8bb9b616000c4e0f8f3e2befed11"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-focuses-on-esg-agenda",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-focuses-on-esg-agenda",
+      "id": "aae94a375c6fa2bca50c38d01e4f8d7243bc7e1d"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-grows-automation-footprint",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-grows-automation-footprint",
+      "id": "4b4a5b52a9aede8373cdc0e763f6623462b506ce"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-strengthens-risk-and-governance-capabilities",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-strengthens-risk-and-governance-capabilities",
+      "id": "3fa302b6eafd83579916770a3dd18ab6748dc2e9"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-unveils-plans-to-transform-master-trust-business",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-unveils-plans-to-transform-master-trust-business",
+      "id": "7aca1b82bb7a544d61432d96dfe5f2000c4763b0"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-unveils-strategy-to-lead-wealth-management-in",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-unveils-strategy-to-lead-wealth-management-in",
+      "id": "3b4a26f509dcd270ddef2db3c4a3447b4260c9aa"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/insignia-financial-welcomes-objective-of-super",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/insignia-financial-welcomes-objective-of-super",
+      "id": "86f1416dfdca5067e085578f7340e4371dcf132e"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/managed-account-solutions-surpass-6-billion",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/managed-account-solutions-surpass-6-billion",
+      "id": "7a5e817c4cb6ebfaed19ecdead6a123eeaec2b68"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/mlc-announces-retirement-partnership-with-tal-and-challenger-ahe",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/mlc-announces-retirement-partnership-with-tal-and-challenger-ahe",
+      "id": "f9d09aab8d72e8720848fb7280827ea18517815b"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/mlc-successfully-separates-from-nab",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/mlc-successfully-separates-from-nab",
+      "id": "286dc1b0b3a8642d53fe95b98ea9ef67dd003047"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/new-brand-identity-wins-gold",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/new-brand-identity-wins-gold",
+      "id": "4fc9f45dc4c74ca0171efc67e0b0b06459a10c32"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/new-enhancements-to-expand-essential",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/new-enhancements-to-expand-essential",
+      "id": "9b1053900be8b9d1f1b4fd673fe224a05018f459"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/refreshed-expand-wrap-platform-offer",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/refreshed-expand-wrap-platform-offer",
+      "id": "d88f6ba51fce4ed91fd798e7e14289753b774b73"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/response-to-dbfo-tranche-2",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/response-to-dbfo-tranche-2",
+      "id": "00527f63160f0088cad95941b99e5e9430089124"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/response-to-objective-of-superannuation-proposal",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/response-to-objective-of-superannuation-proposal",
+      "id": "7251d8c218080a9498d6c1efd3231a9ce157fd73"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/shaping-client-experience-through-purpose-led-innovation",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/shaping-client-experience-through-purpose-led-innovation",
+      "id": "7b03fc54256eb9ca02ac7df55676be59f356a317"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/statement-from-opc-in-response-to-apra-media-release",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/statement-from-opc-in-response-to-apra-media-release",
+      "id": "7817138823aab62820f67415a7ad636c068edd37"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/media-releases/media-releases/successful-separation-of-pensions-investments-business-from-anz",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/media-releases/media-releases/successful-separation-of-pensions-investments-business-from-anz",
+      "id": "cf625612d82595f56a0d6c3a12f72ce7477b04fa"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates",
+      "id": "f0536b76c9da29cd118b92f22a5be20fcb7ddc54"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news",
+      "id": "c650342ce7c28bffceae03ccb5b3ab69d49ffddf"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/2024-financial-freedom-report",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/2024-financial-freedom-report",
+      "id": "6f4a06b6d5c541d674783da12dd66456023cd62b"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/4q23-quarterly-business-update",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/4q23-quarterly-business-update",
+      "id": "1b24be5748de7efa2856e7dd5ba63450659a18e6"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/appointment-of-scott-hartley-as-ceo",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/appointment-of-scott-hartley-as-ceo",
+      "id": "2259461dcbcb0cf1666ca435ac07d6cb39c68e36"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/elder-abuse-awareness",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/elder-abuse-awareness",
+      "id": "923854c15b6dadf980939842fb39c128a61da5fb"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/financial-year-2022-full-year-results",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/financial-year-2022-full-year-results",
+      "id": "d40a86b2f713a198667994ec66bdbfcf14b93b40"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/financial-year-2023-full-year-results",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/financial-year-2023-full-year-results",
+      "id": "749a5a399bd3c144646c72f828316f35fe31a648"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/helping-flood-affected-communities",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/helping-flood-affected-communities",
+      "id": "b1bf0807286c02700baa89a7a14ae200adeadf3d"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/impersonation-of-insignia-financial-advisers",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/impersonation-of-insignia-financial-advisers",
+      "id": "39e24f5c71f825594c67857639352380aaf17ffb"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/impersonation-warning",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/impersonation-warning",
+      "id": "867131d173bb5a65190f4a2181d4b851b7bc5d92"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/insignia-financial-1h25-results",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/insignia-financial-1h25-results",
+      "id": "e734e5e5dbf73c21c6dd1da4a61475924e4c120b"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/insignia-financial-fy24-results",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/insignia-financial-fy24-results",
+      "id": "2102b30d933f68ecdf8870a77e83cff1d9ea1e27"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/insignia-financial-group-financial-advisers-recognised",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/insignia-financial-group-financial-advisers-recognised",
+      "id": "0f6cae4cff5fe99edcd5be02dabde701ce9099d5"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/insignia-financial-half-year-2023-results",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/insignia-financial-half-year-2023-results",
+      "id": "cba939d22bae6b81736e128a5f847287cb7be749"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/insignia-financial-half-year-2024-results",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/insignia-financial-half-year-2024-results",
+      "id": "abe48d94fb9168eee6f24db4835632425f1156d3"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/insignia-financial-ltd-1h22-financial-results",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/insignia-financial-ltd-1h22-financial-results",
+      "id": "7732556593ed2e7f6c8ecb54cb0166468fd11cc9"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/insignia-financial-unveils-strategy-to-lead-wealth-management-in",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/insignia-financial-unveils-strategy-to-lead-wealth-management-in",
+      "id": "36de0c264c642bab9b52fa25fae1d7a383094dc6"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/managed-account-strategies-reach-1-billion-milestone",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/managed-account-strategies-reach-1-billion-milestone",
+      "id": "d101e77d50a45401d1a55d0b15577c7506d3c1f2"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/meet-anvij-saxena",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/meet-anvij-saxena",
+      "id": "726b6d8ab4a3e366d17107bfb66ed88ed38f5b9b"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/meet-kylie-schabel",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/meet-kylie-schabel",
+      "id": "0c24fd5c6303b8798f7d99ac6acb76c3cb7aa781"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/navigating-the-evolving-risk-landscape",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/navigating-the-evolving-risk-landscape",
+      "id": "05ed2392ab3169b77b64c9b1ca5b1b2de0410f20"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/sharing-our-story-of-reconciliation",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/sharing-our-story-of-reconciliation",
+      "id": "fdff13fba304cf276538aabce1e04092e4410bea"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/super-remains-key-focus",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/super-remains-key-focus",
+      "id": "d587330db445200e3ea3e1f225d9a2b7b93a36fe"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/supporting-care-workers-knowledge-on-financial-elder-abuse",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/supporting-care-workers-knowledge-on-financial-elder-abuse",
+      "id": "061e820d216f94a049b3a6695b2bf1f9fa05f188"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/the-diversity-payoff",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/the-diversity-payoff",
+      "id": "015504a36d3ffa72aed1a92aa72955a3e2372eed"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/news-and-media/news-and-updates/news/the-future-of-financial-advice",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-media/news-and-updates/news/the-future-of-financial-advice",
+      "id": "b2588b065950d649d93071e58579e8cb55351bf7"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/privacy",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy",
+      "id": "9697719b764c301db2b2ce794ed6862bfd173290"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/security",
+      "source": "SITEMAPS",
+      "targetPath": "/security",
+      "id": "5d87c35f64ba29b7070a1b4db18ed141c822afc0"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders",
+      "id": "a26fe0d713ebef2c38fd3da1d6e0f9c790b69975"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting",
+      "id": "b6738be47ae6732dbfc76df74bc6f250044eddd2"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/annual-general-meeting",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/annual-general-meeting",
+      "id": "4aa3b969158d7a5dce9c14d4ef5bce4ebb86fd62"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements",
+      "id": "9dba7b1adc05123548031c3aad29b2a54323c18c"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/2020-annual-general-meeting",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/2020-annual-general-meeting",
+      "id": "7db085f7e94353054016f079c27a00b2e9658320"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/analyst-and-investor-pack-comparative-information",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/analyst-and-investor-pack-comparative-information",
+      "id": "ff92ac51ffcc2165479e5bd107a4ebc92084d004"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/board-renewal-appointment-of-jodie-hampshire",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/board-renewal-appointment-of-jodie-hampshire",
+      "id": "14c0196f558e6016953fb108c2a00c877b791c4f"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/insignia-financial-1h22-financial-results",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/insignia-financial-1h22-financial-results",
+      "id": "e1fffd6806f71e66f3a56667935f379f502066e3"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/insignia-financial-dividend-reinvestment-plan",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/insignia-financial-dividend-reinvestment-plan",
+      "id": "b129a7ad853293d3f7b263462b9ba9b49ef1d25e"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/insignia-financial-fy22-results",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/insignia-financial-fy22-results",
+      "id": "35fd7113b2453d53f2f36c5b5592708e59e0a8a6"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/insignia-financial-fy23-results",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/insignia-financial-fy23-results",
+      "id": "1f6cac6259b690e89b6dd3837a8ab5512e8f3989"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/insignia-financial-half-year-2023-results",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/insignia-financial-half-year-2023-results",
+      "id": "3eaf586370837a4a0c50fddeff56dac918ae08d9"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/insignia-financial-half-year-2024-results",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/insignia-financial-half-year-2024-results",
+      "id": "85b4fd133f299d808fdbcf7d4aadf81a848e7012"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/asx-announcements/insignia-financial-q2-fy22-business-update",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/asx-announcements/insignia-financial-q2-fy22-business-update",
+      "id": "b0110a13236b0344df85db033de269839a2ae54f"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/key-dates",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/key-dates",
+      "id": "68615457aa0324d1e89739a5c8cfb320dbfb802d"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/performance-and-reporting/reports-and-results",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/performance-and-reporting/reports-and-results",
+      "id": "025d08b24a3f38e88ec082e1b02398a406a340d7"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/shareholder-information",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/shareholder-information",
+      "id": "ed0157eacfdd2394cb0017aedc821f82892d2df4"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/shareholder-information/communication-preferences",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/shareholder-information/communication-preferences",
+      "id": "ce40dea2dc4fe22a399cd8ea744f270d65281e62"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/shareholder-information/dividend-reinvestment-plan",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/shareholder-information/dividend-reinvestment-plan",
+      "id": "ecfcb28668c1963a64e6e9ea0a28a038556a28bd"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/shareholder-information/manage-your-shareholding",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/shareholder-information/manage-your-shareholding",
+      "id": "cbe1ea9371ad7edf7cb245319e8d14c7c0836fae"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/shareholders/shareholder-information/share-price-and-dividends",
+      "source": "SITEMAPS",
+      "targetPath": "/shareholders/shareholder-information/share-price-and-dividends",
+      "id": "2b80782a6c63a66c807dcaa0dd5cb256881133b1"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/site-map",
+      "source": "SITEMAPS",
+      "targetPath": "/site-map",
+      "id": "429985517ce0ad2b82253a515027c4961cc402a5"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/terms-of-use",
+      "source": "SITEMAPS",
+      "targetPath": "/terms-of-use",
+      "id": "fc1f55a8856b530a4b83b6bbc002243a6f0467a7"
+    },
+    {
+      "url": "https://www.insigniafinancial.com.au/website-disclosure-information",
+      "source": "SITEMAPS",
+      "targetPath": "/website-disclosure-information",
+      "id": "6249b498face6981563b70af0a10ae2fac9047a2"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
