@@ -1,15 +1,39 @@
+.cards {
+  /* Make the block more compact and centered with more horizontal whitespace */
+  max-width: 880px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
 .cards > ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
-  grid-gap: 24px;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px 24px; /* tighter row and column gap */
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  place-items: stretch stretch;
 }
 
 .cards > ul > li {
-  border: 1px solid #dadada;
-  background-color: var(--background-color);
+  background: #f6f7f8;
+  border: none;
+  box-shadow: none;
+  padding: 16px 20px 14px 38px; /* less vertical and right padding, more left for the bar */
+  min-height: 85px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: relative;
+  width: 100%;
+  max-width: 390px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
 }
 
 .cards .cards-card-body {
@@ -24,4 +48,91 @@
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+}
+
+/* Short vertical accent bar aligned even closer to heading */
+.cards > ul > li::after {
+  background: #d3d5d6;
+  width: 6px;
+  height: 26px;
+  position: absolute;
+  left: 0;
+  top: 26px; /* slightly lower for better alignment */
+  border-radius: 2px;
+  display: block;
+  content: "";
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Card heading styling: slightly smaller, tighter spacing */
+.cards .cards-card-body h2 {
+  margin-top: 0;
+  margin-bottom: 0.04em;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.24;
+  color: #0072ce;
+  display: inline;
+}
+
+.cards .cards-card-body h2 a {
+  color: #0072ce;
+  font-weight: 700;
+  font-size: 1em;
+  text-decoration: none;
+  vertical-align: baseline;
+}
+
+.cards .cards-card-body h2 sup {
+  font-size: 0.73em;
+  color: #0072ce;
+  font-weight: 600;
+  vertical-align: super;
+  margin-left: 0.14em;
+}
+
+.cards .cards-card-body p {
+  color: #444;
+  font-size: 1rem;
+  margin-top: 0.1em;
+  margin-bottom: 0;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* Chevron: slightly thinner, more offset from right and bottom */
+.cards > ul > li > .cards-card-body:last-child::after {
+  position: absolute;
+  bottom: 11px;
+  right: 29px;
+  width: 16px;
+  height: 16px;
+  border-right: 2.2px solid #222;
+  border-bottom: 2.2px solid #222;
+  transform: rotate(-45deg);
+  border-radius: 0 0 2px;
+  display: block;
+  pointer-events: none;
+  z-index: 2;
+  background: none;
+  content: "";
+}
+
+/* Responsive for compact mobile look */
+@media (width <= 900px) {
+  .cards > ul {
+    grid-template-columns: 1fr;
+    gap: 12px 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (width <= 700px) {
+  .cards > ul > li {
+    padding: 12px 4px 12px 15px;
+    max-width: 100%;
+  }
+  .cards > ul > li::after { top: 14px; }
 }
