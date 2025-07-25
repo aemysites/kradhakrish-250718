@@ -24,6 +24,102 @@
   display: block;
 }
 
+.columns.columns27 {
+  /* Outer padding/margin for overall block */
+  background: var(--background-color);
+  padding: 0;
+  margin: 0;
+}
+
+.columns.columns27 > div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 2.5rem 2rem;
+  border-top: 1.5px solid #bbb;
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+}
+
+.columns.columns27 > div > div {
+  padding: 0 2rem 0 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.columns.columns27 > div > div:nth-child(3),
+.columns.columns27 > div > div:nth-child(4) {
+  border-top: 1.5px solid #bbb;
+  margin-top: 1.2rem;
+  padding-top: 2rem;
+}
+
+.columns.columns27 ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.columns.columns27 li {
+  margin-bottom: 0.4em;
+}
+
+.columns.columns27 h2 {
+  font-size: 1.18rem;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0.65em;
+  color: var(--text-color);
+  line-height: 1.2;
+}
+
+.columns.columns27 h1 {
+  font-size: 2.3rem;
+  font-weight: 700;
+  margin-bottom: 0.18em;
+  margin-top: 0;
+  color: var(--text-color);
+  line-height: 1.08;
+}
+
+.columns.columns27 h1 + p {
+  font-size: 1.13rem;
+  color: #444;
+  margin-bottom: 1.8em;
+  margin-top: 0;
+}
+
+.columns.columns27 a {
+  color: #005ea5;
+  text-decoration: underline;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.55;
+}
+
+/* Responsive: stack sections vertically on small screens */
+@media (width <= 900px) {
+  .columns.columns27 > div {
+    display: block;
+    border-top: 1.5px solid #bbb;
+    margin-top: 2.5rem;
+    padding-top: 2rem;
+  }
+
+  .columns.columns27 > div > div {
+    padding-right: 0;
+    border-top: none;
+    margin-top: 2.2rem;
+    padding-top: 0;
+  }
+
+  /* Add horizontal separator between all except first section */
+  .columns.columns27 > div > div:not(:first-child) {
+    border-top: 1.5px solid #bbb;
+    padding-top: 2rem;
+  }
+}
+
 .columns.columns28 {
   background: #174B7D;
   color: #fff;
@@ -40,21 +136,6 @@
   min-width: 0;
 }
 
-/* === Top: Four Columns in a Row, Edge-to-Edge === */
-.columns.columns28 > div:last-child {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-end;
-  justify-content: stretch;
-  min-height: 72px;
-  background: url('https://www.studylink.govt.nz/assets/images/footer-pattern.svg') repeat-x left bottom, #174B7D;
-  background-size: auto 72px, cover;
-  padding: 6px 18px 12px;
-  box-sizing: border-box;
-  width: 100%;
-  min-width: 0;
-}
-
 .columns.columns28 > div:first-child {
   display: flex;
   flex-direction: row;
@@ -67,6 +148,15 @@
   min-width: 0;
 }
 
+.columns.columns28 > div:first-child > div {
+  flex: 1 1 0;
+  min-width: 0;
+  max-width: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
 .columns.columns28 > div:last-child {
   display: flex;
   flex-direction: row;
@@ -79,24 +169,6 @@
   box-sizing: border-box;
   width: 100%;
   min-width: 0;
-}
-
-.columns.columns28 > div:first-child > div {
-  flex: 1 1 0;
-  min-width: 0;
-  max-width: none;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-
-.columns.columns28 h2 {
-  color: #fff;
-  font-size: 20px;
-  font-weight: 700;
-  margin: 0 0 16px;
-  letter-spacing: 0;
-  line-height: 1.3;
 }
 
 .columns.columns28 ul {
@@ -201,16 +273,27 @@
   display: block;
 }
 
+.columns.columns28 h2 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 16px;
+  letter-spacing: 0;
+  line-height: 1.3;
+}
+
 @media (width >= 900px) {
   .columns > div {
     align-items: center;
     flex-direction: unset;
     gap: 24px;
   }
+
   .columns > div > div {
     flex: 1;
     order: unset;
   }
+
   .columns.columns28 > div:last-child {
     display: flex;
     flex-direction: row;
@@ -232,9 +315,11 @@
     gap: 22px;
     padding: 20px 6px 0;
   }
+
   .columns.columns28 > div:first-child > div {
     max-width: none;
   }
+
   .columns.columns28 > div:last-child {
     flex-direction: column;
     align-items: flex-start;
@@ -242,11 +327,13 @@
     min-height: 50px;
     gap: 10px;
   }
+
   .columns.columns28 > div:last-child > .columns-img-col {
     flex-direction: column;
     align-items: flex-start;
     gap: 8px;
   }
+
   .columns.columns28 > div:last-child > div:last-child {
     margin-left: 0;
     width: 100%;
