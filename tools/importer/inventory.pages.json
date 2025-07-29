@@ -1,0 +1,42 @@
+{
+  "templates": [
+    {
+      "name": "'Directory Listing'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.studylink.govt.nz/about-studylink/glossary/",
+          "uuid": "dd7e2c77c276ec40acbc6a7665b2a25470f42f52"
+        },
+        {
+          "url": "https://www.studylink.govt.nz/about-studylink/",
+          "uuid": "408c0111b997e291480c71ae1a609a50619fe76b"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.studylink.govt.nz/",
+          "uuid": "e6b0847df239bdf2d094a0f53b3bc63a40a52810"
+        }
+      ]
+    },
+    {
+      "name": "'Document Listing Page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.studylink.govt.nz/about-studylink/glossary/accommodation-type.html",
+          "uuid": "19ae72aba76dd9d132fcc66c2da759356edca501"
+        },
+        {
+          "url": "https://www.studylink.govt.nz/about-studylink/glossary/academic-best-interest.html",
+          "uuid": "8649298c882957114719e47896c990b470942818"
+        }
+      ]
+    }
+  ]
+}
