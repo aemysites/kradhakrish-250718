@@ -1,0 +1,1663 @@
+{
+  "originUrl": "https://www.studylink.govt.nz",
+  "lastCrawled": "https://www.studylink.govt.nz/",
+  "urls": [
+    {
+      "url": "https://www.studylink.govt.nz/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "e6b0847df239bdf2d094a0f53b3bc63a40a52810"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink",
+      "id": "408c0111b997e291480c71ae1a609a50619fe76b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary",
+      "id": "dd7e2c77c276ec40acbc6a7665b2a25470f42f52"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/academic-best-interest.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/academic-best-interest",
+      "id": "8649298c882957114719e47896c990b470942818"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/accommodation-type.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/accommodation-type",
+      "id": "19ae72aba76dd9d132fcc66c2da759356edca501"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/alternative-contact-person.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/alternative-contact-person",
+      "id": "767ffa929360a333f0db5d01bf44cec3edd4f3a1"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/approved-study-course-programme.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/approved-study-course-programme",
+      "id": "2f37fe1b1d47573a78e07ddffe8adc11b857f924"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/cash-assets.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/cash-assets",
+      "id": "889f6ce7089e28c433ee17ceb80fcafcabef002b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/children-supported-children-student-allowance-definition.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/children-supported-children-student-allowance-definition",
+      "id": "5f54eb0caa7f8e30e0839d0bba2c8e44f6e479fc"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/client-number.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/client-number",
+      "id": "15c3156b9e246295e25859492d15547159079285"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/concurrent-programmes.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/concurrent-programmes",
+      "id": "8b92ea82e5f10f664e1d3deb00ccd66332f3ee1c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/conjoint-programmes.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/conjoint-programmes",
+      "id": "9c9c85aeec622351178e2fa757546b2b89545af6"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/consumers-price-index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/consumers-price-index",
+      "id": "c40199623f6908939963a7c0f5c839100e5ab808"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/de-facto-relationship.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/de-facto-relationship",
+      "id": "d747d7cf6e967d2a21fc6dfeb2d8a8cb4bdb5e28"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/deprivation-of-income.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/deprivation-of-income",
+      "id": "4d88b06a7609b99753198952ccdf4fee15ce9c88"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/disability-or-illness.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/disability-or-illness",
+      "id": "d7ba20f876edfc3810fb846b82a5f74f9f4f1004"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/education-provider.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/education-provider",
+      "id": "afe17f1d38ada6131a7128038d8a33a7a31b55a3"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/efts.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/efts",
+      "id": "b774c9496489198a780f8bd2903239166ac55bc6"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/establishment-fee.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/establishment-fee",
+      "id": "ed36a764875ed8111d329ad645f26fb0b7c3e35a"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/extramural.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/extramural",
+      "id": "636a3ac3439e38246b7ad994c72093a175a7bb1d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/full-time-definition.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/full-time-definition",
+      "id": "a9a99db5812a25b84f6856e088905b02d56a1c4c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/income.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/income",
+      "id": "16ece13d4c78a254c5b5144ba7729e0b1099e4e5"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary",
+      "id": "5204e5c7e2ca31cde2d1a6ba4124012444a25e6a"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/lifetime-limit.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/lifetime-limit",
+      "id": "69880ea2939a7e8e6d16799f8ebd52fe83bb45f6"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/limited-full-time-status.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/limited-full-time-status",
+      "id": "faa4c93a0ab01894d454a06427644510ca070822"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/non-cash-assets.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/non-cash-assets",
+      "id": "71af9c778c30c7125ba4fdb0bf9f69d3e4a6c9da"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/ordinarily-resident.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/ordinarily-resident",
+      "id": "faaef83427947daefc3ed0761de290c943ed2ede"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/other-dependent-students-student-allowance-definition.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/other-dependent-students-student-allowance-definition",
+      "id": "3e4ab80dd6f9dfa364f86c7524c46b9818094cf3"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/parental-home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/parental-home",
+      "id": "c868726c68719e538613ec906f0a6253623778b5"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/parents-income.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/parents-income",
+      "id": "46797fa14e2009cea8fc57bc776719d4d94b2a9c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/parents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/parents",
+      "id": "198d264528cf50e538d4b0be3dd596eb69a61186"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/partner.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/partner",
+      "id": "4f6d96eb873c0bb740296f23c49a88c7a7eb5e2f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/qualification-types.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/qualification-types",
+      "id": "54cffe87d282a3eca0efc97c32f5a0180afd2055"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/recognised-relationship.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/recognised-relationship",
+      "id": "51eba22cd9ddbda4a093cf1344684be68c4a0728"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/residency-requirements.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/residency-requirements",
+      "id": "6cf09149ffd59dbc4734227ce8f2ed6f88d13e37"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/residency-status-or-type.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/residency-status-or-type",
+      "id": "10013829f52ff7a26efa16e6974b255a7d213d5b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/secondary-school.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/secondary-school",
+      "id": "a538701fed9019dea643db92dc0387d1bcc0c46b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/special-circumstances.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/special-circumstances",
+      "id": "89da2e5eb9cfe0ab0ad819a6cdafb61869dfecf9"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/stand-down.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/stand-down",
+      "id": "8af098c369122fc8c2c19bdb5c700d10e3ffe9c6"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/glossary/youth-guarantee-programme.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/glossary/youth-guarantee-programme",
+      "id": "bd78c1177d7ed26fd453a0de830e352e89c7589c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink",
+      "id": "b5e087bc2e1741fef8685f53a5d9657d90148a49"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/news",
+      "id": "9a8ec69fb6eaf49153b6d9f9bff04ea66cdd1b02"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/agents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/services/agents",
+      "id": "74f9b18617f500b7570ad375c23e7da0968e0d2d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/appointments.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/services/appointments",
+      "id": "36f36c5d86b3938849868b7dcf196cf650474190"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/cheap-as-data.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/services/cheap-as-data",
+      "id": "1a4eacc400b3d734069e3f1fe3ca8df2cefe28ad"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/how-studylink-works.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/services/how-studylink-works",
+      "id": "dbde7455e26404d7f3a30c2bedf7a83d771c4cfe"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/services",
+      "id": "ab50b754a190314cf2ad1b62669b25ba58f87fe2"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/what-services-can-be-used-with-cheap-as-data.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-studylink/services/what-services-can-be-used-with-cheap-as-data",
+      "id": "a3fd52d1ffcadbc096394259dcf3b58d923c8ede"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-this-site/",
+      "source": "SITEMAPS",
+      "targetPath": "/about-this-site",
+      "id": "20525229efb5c11ed9d1854c417b47056020bc23"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-this-site/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-this-site",
+      "id": "1e75f48bf2247c32d1c28a88d44b3d6cfe58a64c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-this-site/online-security.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-this-site/online-security",
+      "id": "bf5e4e328397c9108c97d9432f877839644cecc4"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-this-site/privacy-disclaimer-and-copyright-information.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-this-site/privacy-disclaimer-and-copyright-information",
+      "id": "48ab390fd6856fcce6ba9179c0ea1db377edfc06"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-this-site/sitemap.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-this-site/sitemap",
+      "id": "b0d43a26e6cb809380683b50d237ff969bf71826"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/finished-study/",
+      "source": "SITEMAPS",
+      "targetPath": "/finished-study",
+      "id": "1390a285d30ce49a559abe9a4e9b5c870c57b1f7"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/finished-study/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/finished-study",
+      "id": "b0c6cb882b74291becfd8c18b7a318ac2fa1317c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/finished-study/your-loan.html",
+      "source": "SITEMAPS",
+      "targetPath": "/finished-study/your-loan",
+      "id": "0bea26d4215a20c17dc8046377b62c1ddc610f1e"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study",
+      "id": "b77c47a502f0acd0ebab0c19643c080aa7ecdebc"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/address-and-contact-details.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/address-and-contact-details",
+      "id": "603d766c87863073365391d0745195a9712135d4"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/age/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/age",
+      "id": "534ac27262a6d9a8e87ddaa391398eb138e53d83"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/age/turning-18.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/age/turning-18",
+      "id": "3eb73f673b01dd1c9e49d932bee1a219b457da39"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/age/turning-24.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/age/turning-24",
+      "id": "030bc25eafa7a5badd9a136fd7ebcda7b4b33627"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/age/turning-40.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/age/turning-40",
+      "id": "7eb1e0f7882ef2ce6ad72b3e7f26174525e5608a"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/age/turning-55.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/age/turning-55",
+      "id": "b37a922962f7dc7b2f0d7b461c2d740b7d4b3f6d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/age/turning-65.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/age/turning-65",
+      "id": "ee099414d65cd48c6df3de42696b328ff24ce708"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/bank-account.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/bank-account",
+      "id": "69a8da3c123323f7e2314479c015cd86109931a9"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/dependent-children.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/dependent-children",
+      "id": "729c51c65fe7f9be4dc52312021d7f2b0dcfe9e8"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/going-overseas.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/going-overseas",
+      "id": "ca47fc9d7817756a350a43b6ecf30583ccb1d832"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances",
+      "id": "21f2559603744bea893d856139bf9696421c352d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/relationships.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/relationships",
+      "id": "65d09bccdbbaff23fe6a55ef84c35bec21d179f8"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/tax-code.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/change-in-circumstances/tax-code",
+      "id": "a569bc64efbcf069d24b251d76c4a2acdd53b883"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/absent-from-childcare.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/absent-from-childcare",
+      "id": "e08b38a773296a06c354edb883ecdc56dfcb2674"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/change-in-hours.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/change-in-hours",
+      "id": "06a37eb68313389c8208886537a425550cedd387"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/change-in-reason-you-get-payment.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/change-in-reason-you-get-payment",
+      "id": "23c0e72a70765206491806b2e57b6750a3e49628"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/child-moves-providers.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/child-moves-providers",
+      "id": "24e0b7b9a27fec61c1b035e91efcbf23e635742f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/child-no-longer-in-care.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/child-no-longer-in-care",
+      "id": "60aaa78a857a4d6481c2825ba9c76bcbf05bab09"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/child-starts-or-stops-getting-20-hours-ece.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/child-starts-or-stops-getting-20-hours-ece",
+      "id": "cecc7042bc3115823863061b8c81ec58ff505ba4"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/continuing-childcare-0-4-years.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/continuing-childcare-0-4-years",
+      "id": "cc6b53543f203a3b31c0d15c4a4a74b70a1b7f4b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/continuing-childcare-5-13-years.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/continuing-childcare-5-13-years",
+      "id": "298ab9cf64229d0a2b5d33720731b5d2289e1313"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/extending-childcare-when-your-child-turns-5.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/extending-childcare-when-your-child-turns-5",
+      "id": "aeb6bb365707776db267efa66da8c3352b790acf"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare",
+      "id": "0bd01b625d7a9a10a81efe8b654c26578c9b1091"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/moving-from-childcare-subsidy-to-oscar.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/moving-from-childcare-subsidy-to-oscar",
+      "id": "281923aab9aa984d19899f094d6157b64c509b0c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/put-another-child-into-childcare.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/put-another-child-into-childcare",
+      "id": "13de29cec9d71b7d59099fcac2b49041e53a9e40"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/stop-childcare-payments.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/stop-childcare-payments",
+      "id": "bb769a865e66202e8172340a064cb4f6ad2ddf61"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/stops-attending-childcare.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/stops-attending-childcare",
+      "id": "0e684d17f9b8a9608dbf3e521bc198864d75d988"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/study-work-and-training-arrangements.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/study-work-and-training-arrangements",
+      "id": "b27636569e11a39f992333deac3f5aed7975f88d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/childcare/teacher-only-day.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/childcare/teacher-only-day",
+      "id": "0c955f907fc15b7aa55fb8bd9af148eeb891828b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/debt/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/debt",
+      "id": "aa1454b51fc4639088cd4fc443873f4e65d50413"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/debt/pay-debt-from-overseas.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/debt/pay-debt-from-overseas",
+      "id": "827381195704773f799e17735497448448f197bf"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/debt/pay-debt-in-new-zealand.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/debt/pay-debt-in-new-zealand",
+      "id": "10dafd90eb0a5a9ad23064ef649903cd5936a332"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/income/how-income-affects-student-allowance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/income/how-income-affects-student-allowance",
+      "id": "baa3ee0f488692837f251dc87bc2ab1c31c1d221"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/income/how-income-affects-student-loan.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/income/how-income-affects-student-loan",
+      "id": "5c35fc82aea9eceb478bdb7712c4ec6ee8ef87e2"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/income/income-for-childcare.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/income/income-for-childcare",
+      "id": "7c4e96640c490a0646ac3b7d1aaf6818e8aa233d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/income/income-for-extra-help.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/income/income-for-extra-help",
+      "id": "329b070c5d15539d9101836416b9b4d54c16d46c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/income/income-for-jobseeker-support-student-hardship.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/income/income-for-jobseeker-support-student-hardship",
+      "id": "d610d88b5f1e0342452a4e649c5ec22adfe09d99"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/income/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/income",
+      "id": "3d0018142141471873ae971827ffbfd4b4537b8f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/income/parents-income.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/income/parents-income",
+      "id": "34e73066ee40f274b8686936f2779aa0274c575d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study",
+      "id": "742d3582049ae2c6939ae72767d4bf1ad8a7ee08"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/change-study-dates.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/study-details/change-study-dates",
+      "id": "18f79d5943a4aebebf53453721209b65be917619"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/drop-papers.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/study-details/drop-papers",
+      "id": "2e7ac59762507966f4f19c68b59540acd45b705a"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/extending-your-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/study-details/extending-your-study",
+      "id": "1cc5d00cb9cb6af070db475adfe0be84438a5387"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/study-details",
+      "id": "1d70815e2941020df647bf7001f5787792536c52"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/pick-up-papers.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/study-details/pick-up-papers",
+      "id": "3a162757dcbfc252dcb5d87f0721042a2f677cb1"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/withdraw.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/study-details/withdraw",
+      "id": "6161f3e395d283d7e12d559bad91d7afe5e09e48"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/urgent-costs/accommodation-help.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/urgent-costs/accommodation-help",
+      "id": "2c62c1ab78fe2b805be0330604d867fc3b77d593"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/urgent-costs/car-repairs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/urgent-costs/car-repairs",
+      "id": "c53c94072891ca92bb6929529b5784e98b121c2f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/urgent-costs/dental-treatment.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/urgent-costs/dental-treatment",
+      "id": "50cf22f9bcefab69e5af7a269360f811866bb891"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/urgent-costs/food-grant.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/urgent-costs/food-grant",
+      "id": "e2f530f65dc53d135a142743cd4363c673aea2f0"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/urgent-costs/glasses.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/urgent-costs/glasses",
+      "id": "005848f88f54b59cda1b4f9a8d790b6f475547c5"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/urgent-costs/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/urgent-costs",
+      "id": "5fc9922ffbc576c6684e344c37555518b3026f7f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/urgent-costs/power-gas-and-water-bills-or-heating.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/urgent-costs/power-gas-and-water-bills-or-heating",
+      "id": "cfa43f21e2094edbd17640aefacdeb61aaa567c1"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/urgent-costs/whiteware.html",
+      "source": "SITEMAPS",
+      "targetPath": "/in-study/urgent-costs/whiteware",
+      "id": "dd693ce7d65193e4d8a58bd8ca02aaaf3c1458e9"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "1f40e41c9090230375d74e7e686a9e12734da9fd"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services",
+      "id": "a526b5dfaa4797b07952b8c5bade5d57bc6b84fc"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/first-time/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/first-time",
+      "id": "8bfe7167bba56e567bad733da57ee01bb835684b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/help/application-status.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/help/application-status",
+      "id": "385bfbe6dd3ca976911957dc9d8812dea746acb9"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/help/documents-supporting-your-application.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/help/documents-supporting-your-application",
+      "id": "3f69ae42e7c04605f2a643557d90ffeddffa6247"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/help/help-completing-an-online-application.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/help/help-completing-an-online-application",
+      "id": "3ef27a623caad2e737f7263d967d4849cc2fe9a1"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/help/how-to-upload-documents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/help/how-to-upload-documents",
+      "id": "fbb0064ee666e4b13ea82c5c3f690560c898741e"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/help/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/help",
+      "id": "0508009766a054308aae18f1fe41ec8cd6d00c7f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/help/information-youll-need-to-complete-the-online-application.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/help/information-youll-need-to-complete-the-online-application",
+      "id": "39a98e5331a6a3d25683f3a38ef0884997592e7a"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/help/verifying-copies.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/help/verifying-copies",
+      "id": "126eee6b8ed81fee70abd7b1669b4131ff2cb78b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/help/when-payments-start.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/help/when-payments-start",
+      "id": "22bbaad0bf9c14c83a7fa2b758b020c9977f8b55"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply",
+      "id": "b1f655dc4dc75ef57b62f67a4fbcbe687887788f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/returning/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/returning",
+      "id": "0e38b16cf20ce78c4c82005229c85042feb25b29"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/apply/returning/returning-new-application.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/apply/returning/returning-new-application",
+      "id": "fd8cd3819678734e0aea2569dac21c01fd368dd0"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/eligibility/eligibility-test-disclaimer-and-privacy-information.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/eligibility/eligibility-test-disclaimer-and-privacy-information",
+      "id": "29535ec3ccfb39a11333c0bbe19770bf1e4cc351"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/eligibility/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/eligibility",
+      "id": "39eefd163a44c6e0352516f3a4cfff651591c0af"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/eligibility/what-the-eligibility-test-assesses-you-for.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/eligibility/what-the-eligibility-test-assesses-you-for",
+      "id": "3d9e66792458e74aa7443e419a1ac7accad71c91"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services",
+      "id": "9038446a1d92b6fd92ad0c2e58f400ee6e1d6845"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/login/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/login",
+      "id": "51a816dbb57c6de94af643edcff47b8d00ad843c"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/mystudylink/cant-log-in-to-mystudylink.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/mystudylink/cant-log-in-to-mystudylink",
+      "id": "8bc08faf7d97258356000180d552fc4a3b31f59d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/mystudylink/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/mystudylink",
+      "id": "2e81d09dd76f0b6c131e76302791f688759f4243"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/realme/forgotten-login.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/realme/forgotten-login",
+      "id": "ed42bf6931cc7d9b1d78c141057083c481dd72a3"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/realme/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/realme",
+      "id": "00dca0953342d3b5f229d1c6dc8a9d24e165301a"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/realme/manage-your-realme-account-details.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/realme/manage-your-realme-account-details",
+      "id": "aa0314d5a386a4af025ad5d617b83d6d61a86a00"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/realme/second-factor-authentication.html",
+      "source": "SITEMAPS",
+      "targetPath": "/online-services/realme/second-factor-authentication",
+      "id": "5d0d66c938cef8388e46bd7700fcd37f83271793"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products",
+      "id": "f0e55e55a0f38c86443fc2c7e513d878705cabd9"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/accommodation-benefit.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/accommodation-benefit",
+      "id": "f4c4653482d9b84a7b073571a4d69fcea8e936b6"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/accommodation-supplement.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/accommodation-supplement",
+      "id": "980c67014503c673ab5013ad605fe32b7bbb04c7"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/advance-payment-of-benefit.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/advance-payment-of-benefit",
+      "id": "9e1fcac0cb6f14fa7824fbb862526b09c5a2b5ac"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/child-disability-allowance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/child-disability-allowance",
+      "id": "92ae64607e73eb8611de09a75ac0ac6c0c6fdd37"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/childcare-subsidy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/childcare-subsidy",
+      "id": "087a5b3cbb1aa1bccd666e6e2c53c16b568ec917"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/disability-allowance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/disability-allowance",
+      "id": "952b0413f278b29b071f821a0f9bc0b8e8b32f06"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products",
+      "id": "9e8591a2d6af28e19423b3b3230ff10c2516cc63"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/jobseeker-support-student-hardship.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/jobseeker-support-student-hardship",
+      "id": "8b1fb863b357c8b3c47f98dfa5057249df9d8d95"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/jobseeker-support-student-hardship/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/jobseeker-support-student-hardship",
+      "id": "3fbad9882a8024d76f22391591c042de01ff9b61"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/jobseeker-support-student-hardship/jobseeker-support-student-hardship-medical-exemption.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/jobseeker-support-student-hardship/jobseeker-support-student-hardship-medical-exemption",
+      "id": "da49b149ffd1ad35bba582b6fc7f4bfc80305149"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/jobseeker-support-student-hardship/jobseeker-support-student-hardship-shared-custody.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/jobseeker-support-student-hardship/jobseeker-support-student-hardship-shared-custody",
+      "id": "65c00f02101efae9d3303f631d748aaef8e73700"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/new-zealand-scholarships.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/new-zealand-scholarships",
+      "id": "045e4dc353ed1111069452afe288c0449b0d9230"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/oscar-subsidy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/oscar-subsidy",
+      "id": "64a3cf06e628f881d02db77c4d2e589e8d4d2b28"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/recoverable-assistance-payment-grant.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/recoverable-assistance-payment-grant",
+      "id": "e6eae3cf89e864394c3b7d8b005ca6d11a2eea1d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/special-needs-grant.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/special-needs-grant",
+      "id": "abf4938f9cec916fb38f33b62505836897f4887d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance-transfer-grant.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance-transfer-grant",
+      "id": "fbd93470e908a4d246412a32213d4415b9ffe125"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance",
+      "id": "7afcedf5dfa3722aaf60380552f87bba500df74f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance/16-17.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance/16-17",
+      "id": "464d10dd54942249de76e373ae9bfe49250e8be8"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance/2-parents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance/2-parents",
+      "id": "2ee75a652ff439018b09cbd9abda26b7aa7266bd"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance/how-long-you-can-get-a-student-allowance-for.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance/how-long-you-can-get-a-student-allowance-for",
+      "id": "8ea0bb97ab54d7cd3d34296f633624c56a9e003d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance",
+      "id": "f4389827990199b87b38d7c72aba07ebbb8c6087"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance/no-parents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance/no-parents",
+      "id": "9c8d75dd929e97267e90f07037875405398ba820"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance/one-parent.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance/one-parent",
+      "id": "228ef8af968f579d7956fa50679f8941f948d49d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance/passing-your-course.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance/passing-your-course",
+      "id": "20c15fcbe7bf7939688f30163d467783bd3d57a4"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-allowance/why-we-use-parents-income-to-calculate-the-student-allowance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-allowance/why-we-use-parents-income-to-calculate-the-student-allowance",
+      "id": "33ba64221aa6b8583a9f98ac4c2d3d095ec91395"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-loan.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-loan",
+      "id": "e01a4f5d35de963b3a79fcc97cc152d43b280496"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-loan/course-fees.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-loan/course-fees",
+      "id": "e400c27e57af4954a36bea96ef6d8faa57bdd078"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-loan/course-related-costs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-loan/course-related-costs",
+      "id": "89866e2b4f0de02a9c406e6a83675dc799d2a9c5"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-loan/how-many-loans-you-can-get.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-loan/how-many-loans-you-can-get",
+      "id": "ce9a926a7241a6db9b3d6efea3540a547ba54b89"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-loan/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-loan",
+      "id": "3a708b2cbee7a751a4c83fad3ad60e71de1f5bf2"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-loan/living-costs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-loan/living-costs",
+      "id": "c115879062c6dd1be005fba68ebd95b0b49abfbe"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-loan/sample-student-loan-contract.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-loan/sample-student-loan-contract",
+      "id": "5714b08beeb57a68d85b77c00f34b6697014db6b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/student-loan/student-loan-contract.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/student-loan/student-loan-contract",
+      "id": "6a020d209685cbfbf6cdc77bbe8042f7ebf095bf"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/teach-nz-scholarship.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/teach-nz-scholarship",
+      "id": "21040e245e550b3e62b1c3c053b85120c6d3bc32"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/temporary-additional-support.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/a-z-products/temporary-additional-support",
+      "id": "27f8ba9235218be39b45cd5f58960a84ed301308"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/forms/",
+      "source": "SITEMAPS",
+      "targetPath": "/products/forms",
+      "id": "85cc8be26d5e751c505499c3f6957f9d461c85e0"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/forms/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/forms",
+      "id": "f96018983db0398794f52e10a2015a983d4f576f"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products",
+      "id": "39022ee3ef01b6211796546615731c2f3b2aee7b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/calculators/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/rates/calculators",
+      "id": "307db6c75b522b2925a9cf1dcadffa9b0b86cefe"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/calculators/parental-income-calculator.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/rates/calculators/parental-income-calculator",
+      "id": "199156b12e641324b02754cd4b9ad784acd7953a"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/calculators/student-allowance-rate-calculator.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/rates/calculators/student-allowance-rate-calculator",
+      "id": "a6c727c764d8543bb551077ffe33f3e5db198fb7"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/rates",
+      "id": "a8bb8cb9a7f196250a033a29e7783846ad873a33"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/jobseeker-support-student-hardship-income-deduction-table.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/rates/jobseeker-support-student-hardship-income-deduction-table",
+      "id": "edead6230a7e88908951c581f96e747c3a89a915"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/jobseeker-support-student-hardship-rates.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/rates/jobseeker-support-student-hardship-rates",
+      "id": "d06cd8f35ce84149859ef6c58d7169ea3a8442aa"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/student-allowance-rates.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products/rates/student-allowance-rates",
+      "id": "65e96af076c6737ffe28c2699c63f0faab1a4b36"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study",
+      "id": "89315ab8c3100227febbad9ffe4fc47dde2187d1"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/continue-from-last-semester.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study/continue-from-last-semester",
+      "id": "53e8dc58ec172f7368b7f22ad862862f0039ab0d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study",
+      "id": "bb34a2b577aeb54df4f49945e6e8e9b35fa0d916"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/pass-course/can-apply.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study/pass-course/can-apply",
+      "id": "e1066f1ad2ee50cefbd044829df05434365284c4"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/pass-course/did-not-pass.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study/pass-course/did-not-pass",
+      "id": "4f50ac434aa9e3e9a801b34a07ae7939bed82158"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/pass-course/how-much-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study/pass-course/how-much-study",
+      "id": "e79264eafaddaec0fa0ab7a317a8cd35da331200"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/pass-course/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study/pass-course",
+      "id": "ce80c11eba4959f2cefe2fedb043ed1bbf89538b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/pass-course/passed-half-course.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study/pass-course/passed-half-course",
+      "id": "2a1ce4f81acc0777a7a9cfa6434a8f87cdb6d937"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/postgraduate-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study/postgraduate-study",
+      "id": "a2d47b97798b45f96a3978ba8492b9c4aa0b5053"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/return-to-study/took-a-study-break.html",
+      "source": "SITEMAPS",
+      "targetPath": "/return-to-study/took-a-study-break",
+      "id": "291a5ec29f13ec88872272cd88c3e686ba5a153b"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study",
+      "id": "a6a9b7f2ab2115282dc5b8cdd211094bcb72b316"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study",
+      "id": "13e6eaa7a281ddfb46d353608e7e7c3563965ea4"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/thinking-about-study/cost-of-living.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/thinking-about-study/cost-of-living",
+      "id": "3a2b70b84c218317cea88fbd5878bcda1f5e7bc8"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/thinking-about-study/how-much-study-will-cost.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/thinking-about-study/how-much-study-will-cost",
+      "id": "32dfcd77a01719522f1f83a510ce87dabc64fcfd"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/thinking-about-study/how-to-pay-for-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/thinking-about-study/how-to-pay-for-study",
+      "id": "67789512f003cfac619d5ebe22955c0fd0a57dd6"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/thinking-about-study/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/thinking-about-study",
+      "id": "b886b69f173ebc36359d8dc3c9d76f1379e4cc1d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/thinking-about-study/information-for-parents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/thinking-about-study/information-for-parents",
+      "id": "5e3a2dbcab00e89788b287a18f6bd142a288a619"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/thinking-about-study/moving-from-a-benefit-to-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/thinking-about-study/moving-from-a-benefit-to-study",
+      "id": "c2507fdc72f396ddbed59517b4c0fc84d70c40c6"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/thinking-about-study/scholarships.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/thinking-about-study/scholarships",
+      "id": "e0a83f512c6c534bf017de295fdf88aa494c2487"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/thinking-about-study/what-and-where-to-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/thinking-about-study/what-and-where-to-study",
+      "id": "15ea908692fada24f8100fbd2f1f3f7fb7f4961d"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/whats-available/coming-to-nz-to-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/whats-available/coming-to-nz-to-study",
+      "id": "b9b9914fce3944ed120d5b59be1e9a0e0e892380"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/whats-available/extra-help.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/whats-available/extra-help",
+      "id": "d86021e4b866bb98434dd3a725271a383c5b7dd5"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/whats-available/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/whats-available",
+      "id": "89e1d83f8e93752d64af8c58875291bf76aeedd3"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/whats-available/information-for-partners.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/whats-available/information-for-partners",
+      "id": "bf411155eaae6385ced4115dd1efbe453c6b0ab5"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/whats-available/on-a-benefit.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/whats-available/on-a-benefit",
+      "id": "98e2b880b357cd33ebac315dd07cc964edd1ba26"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/whats-available/studying-overseas.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/whats-available/studying-overseas",
+      "id": "a19bae75d6cf224bdd6d6e84991af14a19ed116e"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/starting-study/whats-available/studying-part-time.html",
+      "source": "SITEMAPS",
+      "targetPath": "/starting-study/whats-available/studying-part-time",
+      "id": "2d80f0ab7bb0ae685f1baa04ae37853eacda3999"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/student-allowance-income-deduction-tables.html",
+      "status": "301 Moved Permanently Redirect: https://www.studylink.govt.nz/products/rates/calculators/index.html"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/income/declaring-income.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-this-site/access-keys.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/finished-study/more-study.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/unpaid-practical-work-or-research-or-field-work.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2017/second-semester.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2017/are-you-in-your-final-year-at-secondary-school.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/student-allowance-obligations.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/jobseeker-support-student-hardship/jobseeker-support-student-hardship-obligations.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/course-related-costs.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-this-site/change-font-size.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-this-site/privacy.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/making-a-complaint.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/death-of-a-student.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/our-service-charter.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/finished-study/starting-work.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/student-loan-obligations.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/not-meeting-course-requirements.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/working-while-studying.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/break-between-study.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/study-details/summer-school.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/change-course-or-programme.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/transferring-to-another-education-provider.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/living-costs.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/change-papers.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/online-services/mystudylink/what-you-can-do-in-mystudylink.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/in-study/change-in-circumstances/cancel-your-loan.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2017/easter-anzac-day-holiday-information.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2017/budget-changes.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2017/queens-birthday-weekend-payment-dates-and-office-closures.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index-2010.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index-2011.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index-2012.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index-2013.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index-2014.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index-2015.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index-2016.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/finished-study/help-when-finished-study.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/student-loan-objection-process.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/services/student-allowance-review-of-decision.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/jobseeker-support-student-hardship/jobseeker-support-student-hardship-partner-obligations.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2010/budget-2010-changes-to-student-loans-and-allowances.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2012/budget-2012-changes-to-student-loans-and-allowances.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/index-2017.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2011/budget-2011-changes-to-student-loans-and-allowances.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2013/fisher-paykel-becomes-msds-preferred-supplier-of-whiteware.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2013/ministry-of-health-introduces-funding-for-family-carers.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2013/budget-2013-changes-to-student-allowances-and-loans.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/assistance-to-transition-into-employment.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2013/a-new-look-for-the-igovt-logon-service.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2013/changes-to-student-loans-from-1-april-2013.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2013/changes-from-1-january-2013-you-need-to-know-about.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2015/accommodation-support-for-students.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2015/medical-students-borrowing-limits-extended.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2015/prove-who-you-are-without-paper.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2014/returning-application.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2015/budget-2015.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2014/relationship-debt-sharing.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2014/western-institute-of-technology-at-taranaki.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/rates/accommodation-benefit-rates.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2014/budget-2014.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2014/changes-to-accommodation-support-for-sole-parents.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/you-missed-the-date.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/connect-2016.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/earthquake-update-22-november.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/earthquake-response.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/earthquake-update.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/labour-day-payments.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/online-services-unavailable-tuesday-13-september-7-8pm.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/make-the-date.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/are-you-in-your-final-year-at-secondary-school.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/do-you-have-a-saved-application.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/changes-to-student-loan-statements-from-inland-revenue.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2014/changes-to-online-services.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/changes-to-child-support-for-sole-parent-students.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/christmas-new-year-holiday-information.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/occupation-outlook-2016.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/inland-revenue-and-australian-taxation-office-information-exchange.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/tell-us-what-you-think-about-our-new-website.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/payments-to-co-operative-bank-accounts-issue-resolved.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/supporting-new-zealanders-studying-overseas-new-update.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/supporting-new-zealanders-studying-overseas-update.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/supporting-new-zealanders-studying-overseas.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/cheap-as-data.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/student-loan-data-sharing-bill-passes.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/nows-the-time-to-apply-for-2nd-semester.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/families-in-need-get-more-financial-support-from-1-april-2016.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/applying-for-course-related-costs.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/waiariki-institute-of-technology-and-bay-of-plenty-polytechnic-merger.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/making-things-easier-for-students.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/payment-rate-changes-from-1-april.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/first-time-students-can-prove-their-identity-online-with-realme.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2016/get-it-done-online.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/products/a-z-products/jobseeker-support-student-hardship/jssh-change-in-circumstances.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2017/outages-and-service-delays.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/about-studylink/news/2017/waitangi-day-payment-dates-and-office-closures.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.studylink.govt.nz/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.studylink.govt.nz/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 404"
+    }
+  ]
+}
