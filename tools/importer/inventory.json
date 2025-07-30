@@ -9,91 +9,91 @@
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/accommodation-type.html",
           "urlHash": "19ae72aba76dd9d132fcc66c2da759356edca501",
           "uuid": "19ae72ab-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/accommodation-type.html",
           "urlHash": "19ae72aba76dd9d132fcc66c2da759356edca501",
           "uuid": "19ae72ab-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/accommodation-type.html",
           "urlHash": "19ae72aba76dd9d132fcc66c2da759356edca501",
           "uuid": "19ae72ab-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/",
           "urlHash": "408c0111b997e291480c71ae1a609a50619fe76b",
           "uuid": "408c0111-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/",
           "urlHash": "408c0111b997e291480c71ae1a609a50619fe76b",
           "uuid": "408c0111-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/",
           "urlHash": "408c0111b997e291480c71ae1a609a50619fe76b",
           "uuid": "408c0111-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/academic-best-interest.html",
           "urlHash": "8649298c882957114719e47896c990b470942818",
           "uuid": "8649298c-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/academic-best-interest.html",
           "urlHash": "8649298c882957114719e47896c990b470942818",
           "uuid": "8649298c-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/academic-best-interest.html",
           "urlHash": "8649298c882957114719e47896c990b470942818",
           "uuid": "8649298c-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/",
           "urlHash": "dd7e2c77c276ec40acbc6a7665b2a25470f42f52",
           "uuid": "dd7e2c77-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/",
           "urlHash": "dd7e2c77c276ec40acbc6a7665b2a25470f42f52",
           "uuid": "dd7e2c77-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/",
           "urlHash": "dd7e2c77c276ec40acbc6a7665b2a25470f42f52",
           "uuid": "dd7e2c77-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/",
           "urlHash": "e6b0847df239bdf2d094a0f53b3bc63a40a52810",
           "uuid": "e6b0847d-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/",
           "urlHash": "e6b0847df239bdf2d094a0f53b3bc63a40a52810",
           "uuid": "e6b0847d-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/",
           "urlHash": "e6b0847df239bdf2d094a0f53b3bc63a40a52810",
           "uuid": "e6b0847d-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         }
       ],
       "styles": {
@@ -146,65 +146,38 @@
       "name": "header",
       "cluster": 1,
       "source": "Header",
-      "target": "Header (header1)",
+      "target": "Header",
       "key": "header1",
       "instances": [
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/accommodation-type.html",
           "urlHash": "19ae72aba76dd9d132fcc66c2da759356edca501",
           "uuid": "19ae72ab-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/",
           "urlHash": "408c0111b997e291480c71ae1a609a50619fe76b",
           "uuid": "408c0111-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/academic-best-interest.html",
           "urlHash": "8649298c882957114719e47896c990b470942818",
           "uuid": "8649298c-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/about-studylink/glossary/",
           "urlHash": "dd7e2c77c276ec40acbc6a7665b2a25470f42f52",
           "uuid": "dd7e2c77-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         },
         {
           "url": "https://www.studylink.govt.nz/",
           "urlHash": "e6b0847df239bdf2d094a0f53b3bc63a40a52810",
           "uuid": "e6b0847d-00-9529d5591167c9960acfefc9141483b3ab54ea5b",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "header",
-      "cluster": 2,
-      "source": "Header",
-      "target": "Header (header2)",
-      "key": "header2",
-      "instances": [
-        {
-          "url": "https://www.studylink.govt.nz/about-studylink/",
-          "urlHash": "408c0111b997e291480c71ae1a609a50619fe76b",
-          "uuid": "408c0111-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.studylink.govt.nz/about-studylink/glossary/academic-best-interest.html",
-          "urlHash": "8649298c882957114719e47896c990b470942818",
-          "uuid": "8649298c-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.studylink.govt.nz/",
-          "urlHash": "e6b0847df239bdf2d094a0f53b3bc63a40a52810",
-          "uuid": "e6b0847d-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
         }
       ]
     },
@@ -249,39 +222,6 @@
           "uuid": "e6b0847d-06-df2d8614774e18e1b8dccbc899c3c4aee180c525",
           "xpath": "/html[1]/body[1]/div[1]/footer[1]",
           "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "header",
-      "cluster": 4,
-      "source": "Header",
-      "target": "Header (header4)",
-      "key": "header4",
-      "instances": [
-        {
-          "url": "https://www.studylink.govt.nz/about-studylink/glossary/accommodation-type.html",
-          "urlHash": "19ae72aba76dd9d132fcc66c2da759356edca501",
-          "uuid": "19ae72ab-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://www.studylink.govt.nz/about-studylink/",
-          "urlHash": "408c0111b997e291480c71ae1a609a50619fe76b",
-          "uuid": "408c0111-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://www.studylink.govt.nz/about-studylink/glossary/academic-best-interest.html",
-          "urlHash": "8649298c882957114719e47896c990b470942818",
-          "uuid": "8649298c-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
-        },
-        {
-          "url": "https://www.studylink.govt.nz/about-studylink/glossary/",
-          "urlHash": "dd7e2c77c276ec40acbc6a7665b2a25470f42f52",
-          "uuid": "dd7e2c77-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
         }
       ]
     },
@@ -373,51 +313,6 @@
           "uuid": "e6b0847d-05-bdfad4d7c73eb7f21c4b098d24caa213e2b7eb92",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[1]",
           "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "header",
-      "cluster": 11,
-      "source": "Header",
-      "target": "Header (header11)",
-      "key": "header11",
-      "instances": [
-        {
-          "url": "https://www.studylink.govt.nz/",
-          "urlHash": "e6b0847df239bdf2d094a0f53b3bc63a40a52810",
-          "uuid": "e6b0847d-02-1a6b9016636559f79ae74dc4e76aaba93caf9c72",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[3]"
-        }
-      ]
-    },
-    {
-      "name": "header",
-      "cluster": 12,
-      "source": "Header",
-      "target": "Header (header12)",
-      "key": "header12",
-      "instances": [
-        {
-          "url": "https://www.studylink.govt.nz/about-studylink/glossary/",
-          "urlHash": "dd7e2c77c276ec40acbc6a7665b2a25470f42f52",
-          "uuid": "dd7e2c77-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "header",
-      "cluster": 13,
-      "source": "Header",
-      "target": "Header (header13)",
-      "key": "header13",
-      "instances": [
-        {
-          "url": "https://www.studylink.govt.nz/about-studylink/glossary/accommodation-type.html",
-          "urlHash": "19ae72aba76dd9d132fcc66c2da759356edca501",
-          "uuid": "19ae72ab-01-b40d81440f252bdd515ad3e40b2de4bf5eb714e5",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]"
         }
       ]
     }
