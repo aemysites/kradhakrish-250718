@@ -91,6 +91,7 @@
   padding-bottom: 12px;
 }
 
+/* Place .columns.columns3 selectors before .columns.columns7 selectors to resolve specificity */
 .columns.columns3 > div {
   display: flex;
   flex-direction: row;
@@ -102,7 +103,6 @@
   gap: 30px;
 }
 
-/* Column content */
 .columns.columns3 > div > div {
   display: flex;
   flex-direction: column;
@@ -111,7 +111,33 @@
   max-width: 260px;
 }
 
-/* Center the last column horizontally */
+.columns.columns3 h2 {
+  color: #fff;
+  font-size: 1.07rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 8px;
+  letter-spacing: 0;
+  line-height: 1.3;
+}
+
+.columns.columns3 a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.98rem;
+  font-weight: 400;
+  transition: color 0.2s;
+}
+
+.columns.columns3 ul li a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+  min-height: 22px;
+}
+
+/* Now .columns.columns7 selectors */
 .columns.columns3 > div > div:last-child {
   align-items: center;
   text-align: center;
@@ -124,16 +150,6 @@
 }
 
 /* Headings: smaller, slightly lighter, slightly more gap for last column */
-.columns.columns3 h2 {
-  color: #fff;
-  font-size: 1.07rem;
-  font-weight: 600;
-  margin-top: 0;
-  margin-bottom: 8px;
-  letter-spacing: 0;
-  line-height: 1.3;
-}
-
 .columns.columns3 > div > div:last-child h2 {
   margin-bottom: 5px;
 }
@@ -153,14 +169,6 @@
 }
 
 /* Links */
-.columns.columns3 a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 0.98rem;
-  font-weight: 400;
-  transition: color 0.2s;
-}
-
 .columns.columns3 a:hover,
 .columns.columns3 a:focus {
   color: #e6e6e6;
@@ -168,18 +176,6 @@
 }
 
 /* Contact icons: white, horizontally aligned, sized with text */
-.columns.columns3 ul li a {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  justify-content: center;
-  min-height: 22px;
-}
-
-.columns.columns3 > div > div:not(:last-child) ul li a {
-  justify-content: flex-start;
-}
-
 .columns.columns3 ul li picture,
 .columns.columns3 ul li img {
   display: inline-block;
@@ -188,6 +184,10 @@
   height: 20px;
   margin-right: 2px;
   filter: brightness(0) invert(1);
+}
+
+.columns.columns3 > div > div:not(:last-child) ul li a {
+  justify-content: flex-start;
 }
 
 /* Responsive: 2 columns on tablets, 1 on mobile */
