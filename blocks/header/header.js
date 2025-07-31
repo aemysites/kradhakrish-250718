@@ -1,3 +1,5 @@
+import { getMetadata } from '../../scripts/aem.js';
+import { loadFragment } from '../fragment/fragment.js';
 /**
  * loads and decorates the header, mainly the nav
  * @param {Element} block The header block element
@@ -5,243 +7,207 @@
 export default async function decorate(block) {
   // Replace header with static HTML as per requirements
 
+  const navMeta = getMetadata('nav');
+  const navPath = navMeta ? new URL(navMeta, window.location).pathname : '/nav';
+  const fragment = await loadFragment(navPath);
+
+  // Find the first div with class "section"
+  const sectionDiv = fragment.querySelector('div.section');
+  if (sectionDiv) {
+    // Find the inner div with class "default-content-wrapper"
+    const defaultContentWrapper = sectionDiv.querySelector('div.default-content-wrapper');
+    if (defaultContentWrapper) {
+      // Add class for header default content wrapper
+      defaultContentWrapper.classList.add('header-default-content-wrapper');
+
+      // Find the first image inside defaultContentWrapper
+      const img = defaultContentWrapper.querySelector('img');
+      // Remove the image from its current position if it exists
+      if (img) {
+        img.parentNode.removeChild(img);
+      }
+
+      // Create the columns container
+      const columnsContainer = document.createElement('div');
+      columnsContainer.classList.add('header-columns-container');
+
+      // Left column for image
+      const leftCol = document.createElement('div');
+      leftCol.classList.add('header-left-col');
+      if (img) {
+        leftCol.appendChild(img);
+      }
+
+      // Right column for search box and button
+      const rightCol = document.createElement('div');
+      rightCol.classList.add('header-right-col');
+
+      // Create search input
+      const searchInput = document.createElement('input');
+      searchInput.type = 'text';
+      searchInput.placeholder = 'Search...';
+      searchInput.setAttribute('aria-label', 'Search');
+      searchInput.classList.add('header-search-input');
+
+      // Create submit button
+      const submitBtn = document.createElement('button');
+      submitBtn.type = 'submit';
+      submitBtn.textContent = 'Search';
+      submitBtn.classList.add('header-search-button');
+
+      // Optionally, wrap input and button in a form
+      const searchForm = document.createElement('form');
+      searchForm.classList.add('header-search-form');
+      searchForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        // You can add search logic here if needed
+      });
+      searchForm.appendChild(searchInput);
+      searchForm.appendChild(submitBtn);
+
+      rightCol.appendChild(searchForm);
+
+      // Add columns to container
+      columnsContainer.appendChild(leftCol);
+      columnsContainer.appendChild(rightCol);
+
+      // Remove all children from defaultContentWrapper
+      while (defaultContentWrapper.firstChild) {
+        defaultContentWrapper.removeChild(defaultContentWrapper.firstChild);
+      }
+      // Add the columnsContainer
+      defaultContentWrapper.appendChild(columnsContainer);
+    }
+  }
+
+
+  // Fetch the second section and the default-content-wrapper
+  const sections = fragment.querySelectorAll('div.section');
+  const secondSection = sections[1];
+  const defaultContentWrapper = secondSection?.querySelector('.default-content-wrapper');
+
+  if (defaultContentWrapper) {
+    // Create a wrapper to contain the width to 1200px
+    const headerContentWrapper = document.createElement('div');
+    headerContentWrapper.classList.add('logo-header-default-content-wrapper');
+
+    // Create columns container
+    const columnsContainer = document.createElement('div');
+    columnsContainer.classList.add('logo-header-columns-container');
+
+    // Left column for image
+    const leftCol = document.createElement('div');
+    leftCol.classList.add('logo-header-left-col');
+    // Find the first image in the defaultContentWrapper
+    const img = defaultContentWrapper.querySelector('img');
+    if (img) {
+      leftCol.appendChild(img.cloneNode(true));
+    }
+
+    // Right column for links
+    const rightCol = document.createElement('div');
+    rightCol.classList.add('logo-header-right-col');
+    // Find all links in the defaultContentWrapper
+    const links = defaultContentWrapper.querySelectorAll('a');
+    links.forEach(link => {
+      const button = document.createElement('button');
+      button.textContent = link.textContent;
+      button.className = 'logo-header-link-button';
+      button.onclick = () => {
+        window.location.href = link.href;
+      };
+      rightCol.appendChild(button);
+    });
+
+    // Add columns to container
+    columnsContainer.appendChild(leftCol);
+    columnsContainer.appendChild(rightCol);
+
+    // Add columnsContainer to the width-constrained wrapper
+    headerContentWrapper.appendChild(columnsContainer);
+
+    // Remove all children from defaultContentWrapper
+    while (defaultContentWrapper.firstChild) {
+      defaultContentWrapper.removeChild(defaultContentWrapper.firstChild);
+    }
+    // Add the headerContentWrapper (with max-width 1200px) to defaultContentWrapper
+    defaultContentWrapper.appendChild(headerContentWrapper);
+  }
+
+
+
   
+  // Fetch the third section and its default-content-wrapper
+  const thirdSection = sections[2];
+  const thirdContentWrapper = thirdSection?.querySelector('.default-content-wrapper');
 
-  block.innerHTML = `
-<div id="banner-blue">
-   <div class="container banner js-on">
-      <div id="logo-search" class="container js-on">
-         <div class="logo logo-msd">
-            <a
-               href="https://www.msd.govt.nz/"
-               class="svg"
-               aria-label="Go to Ministry of Social Development website."
-            >
-               <img
-                  src="/media_1154326a37ad395f39db04596054c8650f3369f2a.png?width=2000&format=webply&optimize=medium"
-               />
-            </a>
-         </div>
-         <div id="search-mobile-wrap">
-            <div id="search-mobile">
-               <!-- Start search -->
-               <div id="search">
-                  <form
-                     action="/s/search.html?"
-                     id="suggestion_form"
-                     method="get"
-                     role="search"
-                  >
-                     <input
-                        class="input"
-                        type="hidden"
-                        id="collection"
-                        name="collection"
-                        value="msd-studylink-web"
-                     />
-                     <span
-                        class="twitter-typeahead"
-                        style="position: relative; display: inline-block"
-                        ><input
-                           class="input query tt-hint"
-                           size="31"
-                           type="search"
-                           maxlength="200"
-                           aria-label="Search StudyLink - When autocomplete results are available use up and down arrows to review and enter to select."
-                           aria-haspopup="grid"
-                           aria-autocomplete="list"
-                           readonly=""
-                           spellcheck="false"
-                           tabindex="-1"
-                           aria-hidden="true"
-                           dir="ltr"
-                           style="
-                              position: absolute;
-                              top: 0px;
-                              left: 0px;
-                              border-color: transparent;
-                              box-shadow: none;
-                              opacity: 1;
-                              background: none 0% 0% / auto repeat scroll
-                                 padding-box border-box rgb(242, 242, 242);
-                           "
-                           id="query-hint" /><input
-                           class="input query tt-input"
-                           id="query"
-                           name="query"
-                           size="31"
-                           type="search"
-                           maxlength="200"
-                           aria-label="Search StudyLink - When autocomplete results are available use up and down arrows to review and enter to select."
-                           aria-haspopup="grid"
-                           aria-autocomplete="list"
-                           spellcheck="false"
-                           dir="auto"
-                           aria-owns="query_listbox"
-                           aria-controls="query_listbox"
-                           role="combobox"
-                           aria-expanded="false"
-                           style="
-                              position: relative;
-                              vertical-align: top;
-                              background-color: transparent;
-                           " /><span
-                           role="status"
-                           aria-live="polite"
-                           style="
-                              position: absolute;
-                              padding: 0px;
-                              border: 0px;
-                              height: 1px;
-                              width: 1px;
-                              margin-bottom: -1px;
-                              margin-right: -1px;
-                              overflow: hidden;
-                              clip: rect(0px, 0px, 0px, 0px);
-                              white-space: nowrap;
-                           "
-                        ></span>
-                        <pre
-                           aria-hidden="true"
-                           style="
-                              position: absolute;
-                              visibility: hidden;
-                              white-space: pre;
-                              font-family: &quot;Fira Sans&quot;, sans-serif;
-                              font-size: 13.5936px;
-                              font-style: normal;
-                              font-variant: normal;
-                              font-weight: 400;
-                              word-spacing: 0px;
-                              letter-spacing: 0.448589px;
-                              text-indent: 0px;
-                              text-rendering: auto;
-                              text-transform: none;
-                           "
-                        ></pre>
-                        <div
-                           role="listbox"
-                           class="tt-menu"
-                           id="query-listbox"
-                           style="
-                              position: absolute;
-                              top: 100%;
-                              left: 0px;
-                              z-index: 100;
-                              display: none;
-                           "
-                        >
-                           <div
-                              role="presentation"
-                              class="tt-dataset tt-dataset-organic"
-                           ></div></div
-                     ></span>
-                     <input
-                        id="search-button"
-                        name="Submit"
-                        value="submit search"
-                        type="submit"
-                     />
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
+  if (thirdContentWrapper) {
+    // Create a wrapper to constrain width to 1200px
+    const navHeaderContentWrapper = document.createElement('div');
+    navHeaderContentWrapper.classList.add('nav-header-default-content-wrapper');
 
-   <div class="container header-nav js-on">
-      <div class="container js-on">
-         <!-- Start StudyLink logo -->
-         <div class="logo logo-sl">
-            <a href="/" class="svg" aria-label="Go to the Studylink home page.">
-               <img
-                  src="/media_1e7edca126087802efa148decffd6bde50a4177b4.png?width=2000&format=webply&optimize=medium"
-                  alt="Studylink | Hoto Akoranga"
-               />
-            </a>
-         </div>
-         <div id="print-url" class="print-only">
-            <b>Printed from:</b> https://www.studylink.govt.nz/
-         </div>
-         <div id="print-date"><b>Printed:</b> 31 July 2025</div>
+    // Create columns container
+    const navColumnsContainer = document.createElement('div');
+    navColumnsContainer.classList.add('nav-header-columns-container');
 
-         <nav id="secondary-nav" aria-label="Top">
-            <ul>
-               <li><a href="/products/a-z-products/">A-Z payments</a></li>
-               <li><a href="/products/forms/">Forms</a></li>
-            </ul>
-            <div class="clearboth"></div>
-         </nav>
-      </div>
-   </div>
+    // Left column for list of links
+    const navLeftCol = document.createElement('div');
+    navLeftCol.classList.add('nav-header-left-col');
 
-   <div class="container primary-nav js-on">
-      <div class="container js-on">
-         <div id="navigation-float">
-            <div id="primarynav" role="navigation" aria-label="Primary">
-               <ul>
-                  <li class="currentbg">
-                     <a href="/" id="home-icon" class="current">
-                        <div class="visually-hidden">Home</div>
-                     </a>
-                  </li>
-                  <li><a href="/starting-study/">Starting study</a></li>
-                  <li><a href="/in-study/">In study</a></li>
-                  <li><a href="/return-to-study/">Returning to study</a></li>
-                  <li><a href="/finished-study/">Finished studying</a></li>
-               </ul>
-               <div class="clearboth"></div>
-            </div>
+    // Find all links in the thirdContentWrapper
+    const navLis = thirdContentWrapper.querySelectorAll('li');
+    if (navLis.length > 0) {
+      const ul = document.createElement('ul');
+      ul.classList.add('nav-header-links-list');
+      navLis.forEach(liEl => {
+        // Find the first <a> inside this <li>
+        const link = liEl.querySelector('a');
+        if (link) {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = link.href;
+          a.textContent = link.textContent;
+          a.className = link.className || '';
+          li.appendChild(a);
+          ul.appendChild(li);
+        }
+      });
+      navLeftCol.appendChild(ul);
+    }
 
-            <div class="mobile-nav-holder">
-               <div id="mobile-nav" class="mobile-nav">
-                  <ul>
-                     <li>
-                        <a
-                           id="home-icon-mob"
-                           title="Go to the Studylink home page."
-                           href="/"
-                        >
-                           <span class="visually-hidden">Home</span>
-                        </a>
-                     </li>
-                     <li>
-                        <button
-                           id="search-icon"
-                           class="hide-nav-item search-icon"
-                        >
-                           <span class="visually-hidden">Search</span>
-                        </button>
-                     </li>
-                  </ul>
-               </div>
+    // Right column for Login link
+    const navRightCol = document.createElement('div');
+    navRightCol.classList.add('nav-header-right-col');
 
-               <div id="mobile-search"></div>
+    // Find the Login link inside p.button-container
+    const buttonContainer = thirdContentWrapper.querySelector('p.button-container');
+    let loginLink;
+    if (buttonContainer) {
+      const loginA = buttonContainer.querySelector('a');
+      if (loginA) {
+        loginLink = document.createElement('a');
+        loginLink.href = loginA.href;
+        loginLink.textContent = loginA.textContent;
+        loginLink.className = 'nav-header-login-link';
+        navRightCol.appendChild(loginLink);
+      }
+    }
 
-               <div class="mobile-nav">
-                  <ul>
-                     <li>
-                        <a id="login" href="/online-services/login/index.html">
-                           <span class="visually-hidden">MyStudyLink </span
-                           >Login
-                        </a>
-                     </li>
-                     <li>
-                        <button class="hide-nav-item nav-icon">
-                           <span>Menu</span>
-                           <img
-                              src="/webadmin/images/nav-icon.svg"
-                              alt=""
-                              aria-hidden="true"
-                           />
-                        </button>
-                     </li>
-                  </ul>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-  `;
+    // Add columns to container
+    navColumnsContainer.appendChild(navLeftCol);
+    navColumnsContainer.appendChild(navRightCol);
+
+    // Add columnsContainer to the width-constrained wrapper
+    navHeaderContentWrapper.appendChild(navColumnsContainer);
+
+    // Remove all children from thirdContentWrapper
+    while (thirdContentWrapper.firstChild) {
+      thirdContentWrapper.removeChild(thirdContentWrapper.firstChild);
+    }
+    // Add the navHeaderContentWrapper to thirdContentWrapper
+    thirdContentWrapper.appendChild(navHeaderContentWrapper);
+  }
+
+
+  block.innerHTML = fragment.innerHTML;
 }
