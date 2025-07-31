@@ -5,7 +5,6 @@ footer {
 
 footer .footer>div {
   margin: auto;
-  max-width: 1200px;
   padding: 40px 24px 24px;
 }
 
@@ -17,4 +16,77 @@ footer .footer p {
   footer .footer>div {
     padding: 40px 32px 24px;
   }
+}
+
+/* Global footer row background */
+.global-footer {
+  width: 100%;
+  background-image: url('/icons/footer-bg.png');
+  background-repeat: repeat;
+  display: flex;
+  justify-content: center;
+  height: 61px;
+}
+
+/* Center column with max width and flex layout */
+.global-footer-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Footer columns */
+.global-footer-col {
+  flex: 1;
+}
+
+/* Optional: specific column targeting for custom styles */
+.global-footer-col-left { /* custom styles for left col if needed */ }
+.global-footer-col-center { /* custom styles for center col if needed */ }
+.global-footer-col-right { /* custom styles for right col if needed */ }
+
+/* Icon row inside the center column of the global footer */
+.global-footer-icons-row {
+  display: flex;
+  flex-direction: row;
+  width: 1200px;
+  gap: 32px;
+}
+
+/* Each icon column */
+.global-footer-icon-col {
+  display: flex;
+}
+
+.global-footer-icon-nzgovt {
+  margin-left: auto;
+}
+/* NZ Govt logo */
+.global-footer-icon-nzgovt img {
+  height: 50px;
+  width: auto;
+  align-items: left;
+
+}
+
+/* MSD logo */
+.global-footer-icon-msd img {
+  height: 50px;
+  width: auto;
+  align-items: center;
+
+
+}
+
+/* Move the Shielded logo to the rightmost position */
+.global-footer-icon-shielded {
+  margin-left: auto;
+}
+.global-footer-icon-shielded img {
+  height: 50px;
+  width: auto;
 }
